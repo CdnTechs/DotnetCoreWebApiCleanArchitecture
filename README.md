@@ -1,1 +1,1 @@
-This app will help you to built clean architech of dot net core webapi.
+This app will help you to built clean architecture of dot net core webapi.
